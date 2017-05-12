@@ -6,12 +6,11 @@
     use LWP::UserAgent;
 
 
-system ("DeadPatch");
+system ("LucidScorpion");
 print "\t\t\t\t ~[ CodeBlue ]\n";
 print "\t\t\t\t admin Finder v.0.1\n";
 print "\t\t\t\t Coded By\n";
-print "\t\t\t\t DeadPatach\n";
-print "\t\t\t\t https://twitter.com/DrDeadPatch\n";
+print "\t\t\t\t LucidScorpion\n";
 print "\t\t_________________________________________________\n";
 print "\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
 print "\n\n";
